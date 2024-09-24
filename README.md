@@ -8,7 +8,7 @@ This is a small data cleaning task for practice available on [Foresight BI](http
 
 The dataset is a messy invoice data containing almost 100 rows. A single transaction (identified with an order id ) has multiple items purchased, means a single row for each order, so merging different items purchased and the amounts together into 2 fields respectively.
 
-in the cleaned data as shown in the following image (downloaded from [Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)):
+In cleaned data we need to keep each item purchased on a single row with its amount data as shown in the following image (downloaded from [Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)):
 
 <img src="Images/messy invoice.jpg">
 
