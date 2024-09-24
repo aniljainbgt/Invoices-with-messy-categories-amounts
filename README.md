@@ -35,10 +35,11 @@ Thank to [Ahmed Oyelowo](https://foresightbi.com.ng/author/4eyes/) who made this
 
 ### Skills Used in Excel-Powr Query
 - Power Query
-  - Transpose
-  - Fill Down
-  - Promoting First Line as Header
-  - Pivot/Unpivot Columns
+  - Creating a duplicate copy of a table in power query
+  - Removing columns
+  - Splitting Column  
+  - Adding Index column
+  - Merging tables with a join 
 
 ### Connect with Me
 
