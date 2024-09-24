@@ -1,4 +1,4 @@
-# Invoices-with-messy-categories-amounts
+# Invoices with messy categories amounts
 
 ### About this
 
@@ -6,7 +6,9 @@ This is a small data cleaning task for practice available on [Foresight BI](http
 
 ### About the dataset
 
-The dataset is a badly structured sales data containing almost 800 rows. There are a mix of rows and columns everywhere in the data. Also we don't need Grand Totals and Sub Totals in the cleaned data as shown in the following image (downloaded from [Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)):
+The dataset is a messy invoice data containing almost 100 rows. A single transaction (identified with an order id ) has multiple items purchased, means a single row for each order, so merging different items purchased and the amounts together into 2 fields respectively.
+
+in the cleaned data as shown in the following image (downloaded from [Foresight BI](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)):
 
 <img src="Images/messy invoice.jpg">
 
